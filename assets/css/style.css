@@ -228,20 +228,17 @@ nav ul li a:hover::after {
     transform: translateY(-12px);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
-
 .highlights-card img {
     width: 100%;
     height: 220px;
     object-fit: cover;
 }
-
 .highlights-card-content {
     padding: 30px;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
 }
-
 .highlights-card-content h3 {
     font-family: var(--font-heading);
     font-size: 1.8rem;
