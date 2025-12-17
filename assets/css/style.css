@@ -71,11 +71,6 @@ header {
     align-items: center;
     justify-content: center;
     
-    background: var(--primary-color);
-    color: var(--white-color);
-    padding: 70px 0;
-    text-align: center;
-}
     color: white;
     text-align: center;
     position: relative;
