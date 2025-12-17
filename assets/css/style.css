@@ -66,11 +66,9 @@ header {
     background-position: center;
     background-repeat: no-repeat;
 
-    height: 70vh; /* Full screen height */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+    height: 320px;          /* 👈 CUSTOM HEIGHT */
+    padding: 60px 20px;     /* space for content */
+
     color: white;
     text-align: center;
     position: relative;
