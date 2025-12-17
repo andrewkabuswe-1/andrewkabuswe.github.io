@@ -61,10 +61,19 @@ img {
 
 /* --- 3. Header --- */
 header {
-    background: var(--primary-color);
-    color: var(--white-color);
-    padding: 70px 0;
+    background-image: url("../images/header-pic.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    height: 100vh; /* Full screen height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
     text-align: center;
+    position: relative;
 }
 
 header h1 {
