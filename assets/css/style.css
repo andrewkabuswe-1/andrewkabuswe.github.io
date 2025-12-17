@@ -59,6 +59,36 @@ img {
     height: auto;
 }
 
+.main-header {
+    background: #111;
+    color: #fff;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.main-nav {
+    margin-bottom: 30px;
+}
+
+.main-nav a {
+    color: #fff;
+    margin: 0 12px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.main-nav a:hover,
+.main-nav a.active {
+    text-decoration: underline;
+}
+
+.social-links a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 1.3rem;
+}
+
+
 /* --- 3. Header --- */
 header {
     background-image: url("../images/pic.jpg");
