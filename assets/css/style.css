@@ -61,16 +61,21 @@ img {
 
 /* --- 3. Header --- */
 header {
-    background-image: url("../images/header-pic.jpg");
+    background-image: url("../images/pic.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
-    height: 100vh; /* Full screen height */
+    height: 70vh; /* Full screen height */
     display: flex;
     align-items: center;
     justify-content: center;
-
+    
+    background: var(--primary-color);
+    color: var(--white-color);
+    padding: 70px 0;
+    text-align: center;
+}
     color: white;
     text-align: center;
     position: relative;
