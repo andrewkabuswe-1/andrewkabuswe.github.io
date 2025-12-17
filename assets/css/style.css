@@ -66,28 +66,6 @@ img {
     text-align: center;
 }
 
-.main-nav {
-    margin-bottom: 30px;
-}
-
-.main-nav a {
-    color: #fff;
-    margin: 0 12px;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.main-nav a:hover,
-.main-nav a.active {
-    text-decoration: underline;
-}
-
-.social-links a {
-    color: #fff;
-    margin: 0 10px;
-    font-size: 1.3rem;
-}
-
 
 /* --- 3. Header --- */
 header {
