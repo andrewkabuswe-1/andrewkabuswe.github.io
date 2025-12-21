@@ -85,7 +85,7 @@ header {
 header h1 {
     font-family: var(--font-heading);
     font-size: 4rem;
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 15px;
     letter-spacing: 1px;
 }
