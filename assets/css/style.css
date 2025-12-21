@@ -13,8 +13,8 @@
     --light-text-color: #6c757d;
     --card-bg-color: #ffffff;
     
-    /* Fonts */
-    --font-heading: 'Playfair Display', serif;
+    /* Fonts Playfair Display */
+    --font-heading: 'Arial', serif;
     --font-body: 'Lato', sans-serif;
 }
 
